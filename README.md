@@ -1,4 +1,3 @@
-@@ -0,0 +1,10 @@
 👋 Hi, I’m Visal Hashen  
 👀 I’m interested in WordPress development, web design, and software development  
 🌱 I’m currently learning Java and enhancing my skills in full-stack development  
