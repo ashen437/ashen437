@@ -14,11 +14,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ## GitHub Stats
 
-![Ashen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashen437&show_icons=true&theme=radical)
+![Ashen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashen437&show_icons=true&theme=green&count_private=true&include_all_commits=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashen437&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashen437&layout=compact&theme=green)
 
 ## Connect with Me
 
