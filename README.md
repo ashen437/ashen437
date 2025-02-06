@@ -1,5 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" />, I am Visal Vithanage, aka Ashen</h1>
 <br />
+<br />
 <div>
   <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=Ashen.Ashen" /> -->
   <a href="https://www.hackerrank.com/profile/visalvithanage31">
@@ -48,6 +49,7 @@
 <br /><br />
 
 <h2>Technologies & Tools</h2>
+<br />
 <h3>Frontend</h3>
 <p>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40" /> </a>
