@@ -48,9 +48,9 @@
 </div>
 <br /><br />
 
-<h2>TTechnologies & Tools Currently in Use/Practice.</h2>
+<h2>Technologies & Tools Currently in Use/Practice.<br /></h2>
 <br />
-<br />
+
 <h3>Frontend</h3>
 <p>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40" /> </a>
