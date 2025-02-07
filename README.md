@@ -48,7 +48,8 @@
 </div>
 <br /><br />
 
-<h2>Technologies & Tools</h2>
+<h2>TTechnologies & Tools Currently in Use/Practice.</h2>
+<br />
 <br />
 <h3>Frontend</h3>
 <p>
